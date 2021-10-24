@@ -1,4 +1,1 @@
-Commit 1
-
-Muhammad Lutfi Setiawan
-G.231.19.0151
+G.231.19.0151 - MLS Kota Semarang
